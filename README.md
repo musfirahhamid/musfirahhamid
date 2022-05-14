@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @musfirahhamid
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking for remote job as frontend web developer
-- 📫 I'm expert in HTML5, CSS3, JavaScript, Bootstrap and Tailwind.
+Hey 👋, I'm Musfirah!
+Glad to see you here!
+I'm a frontned developer working with React and Advanced CSS frameworks.I develop and deploy User Interfaces.I usually use HTML5, CSS3, JavaScript,React, Bootstrap and Tailwind.
+ I enjoy creating systems that are both light and powerful, distributed yet coordinated, and beautiful yet functional. I'd like to continue producing goods for people by combining my passion for learning with my software development.
+
 
