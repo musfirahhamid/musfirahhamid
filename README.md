@@ -5,3 +5,4 @@ Hey 👋, I'm Musfirah!
  -I enjoy creating systems that are both light and powerful, distributed yet coordinated, and beautiful yet functional. I'd like to continue producing goods for people by combining my passion for learning with my software development.
 
 
+Let's Connect      https://www.linkedin.com/in/frontendengineer/
