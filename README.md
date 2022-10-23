@@ -30,7 +30,6 @@ Contributions are always welcome!
 
 
 
-
 ## More about Me
 👩‍💻 I'm currently working on SQL
 
@@ -44,3 +43,12 @@ Contributions are always welcome!
 
 
 
+
+## Github Stats 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=musfirahhamid&show_icons=true)
+
+
+## Most used Languages
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=musfirahhamid&theme=blue-white)
