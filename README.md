@@ -44,9 +44,6 @@ Contributions are always welcome!
 
 
 
-## Github Stats 
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=musfirahhamid&show_icons=true)
 
 
 ## Most used Languages
