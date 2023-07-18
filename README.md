@@ -16,7 +16,7 @@ Javascript, HTML, CSS, Bootstrap, jQuery, tailwindCSS, Sass, postCSS, SQL,React,
 
 ## 🔗 Find me around the WWW
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frontendengineer/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/musfirahhamid)
 
 [![hashnode](https://img.shields.io/badge/hashnode-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=blue)](https://hashnode.com/@musfirah-hamid)
 
