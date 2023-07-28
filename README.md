@@ -20,6 +20,8 @@ Javascript, HTML, CSS, Bootstrap, jQuery, tailwindCSS, Sass, postCSS, SQL,React,
 
 [![hashnode](https://img.shields.io/badge/hashnode-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=blue)](https://hashnode.com/@musfirah-hamid)
 
+[![leetcode](https://img.shields.io/badge/hashnode-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=blue)](https://leetcode.com/musfirahh87/)
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://musfirah-h.netlify.app/)
 
 
